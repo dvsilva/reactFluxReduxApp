@@ -14,3 +14,6 @@ yarn add redux react-redux
 
 // install prop-types
 yarn add prop-types
+
+// install reactotron (https://github.com/infinitered/reactotron/releases)
+yarn add reactotron-react-js reactotron-redux

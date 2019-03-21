@@ -1,7 +1,8 @@
 import React from "react";
-//import './config/ReactotronConfig';
-
 import { Provider } from "react-redux";
+
+//import "./config/ReactotronConfig";
+import "./config/reactotron";
 import store from "./store";
 import TodoList from "./TodoList";
 
